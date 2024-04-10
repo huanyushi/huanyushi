@@ -1,3 +1,6 @@
+# About me
+<img src="https://komarev.com/ghpvc/?username=huanyushi&label=Profile+Views&color=0e75b6">
+
 Hey there, I'm Huanyu Shi, a first-year PhD student in physics.
 
 <!-- 
@@ -33,4 +36,3 @@ Welcome to my [Blog](https://huanyushi.github.io). More information about me:
 
 ---
 ⭐️ From [@Huanyu Shi](https://github.com/huanyushi) 💕
-<img align='right' src="https://komarev.com/ghpvc/?username=huanyushi&label=Profile+Views&color=0e75b6">
