@@ -1,11 +1,4 @@
-Hey there, I'm Huanyu Shi, a first-year PhD student specializing in condensed matter physics. 
-
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/huanyushi/count.svg" alt="" /></td>
-  </tr>
-</table>
+Hey there, I'm Huanyu Shi, a first-year PhD student specializing in condensed matter physics.
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huanyushi)](https://github.com/huanyushi/github-readme-stats) 
@@ -38,17 +31,6 @@ Welcome to my [Blog](https://huanyushi.github.io). More information about me:
 
 * Email: [huanyushi2001@gmail.com](mailto:huanyushi2001@gmail.com)
 
-<!--
-**huanyushi/huanyushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐️ From [@Huanyu Shi](https://github.com/huanyushi) 💕
+<img align='rifht' src="https://komarev.com/ghpvc/?username=huanyushi&label=Profile+Views&color=0e75b6">
