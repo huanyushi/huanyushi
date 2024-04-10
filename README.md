@@ -1,4 +1,4 @@
-Hey there, I'm Huanyu Shi, a first-year PhD student specializing in condensed matter physics.
+Hey there, I'm Huanyu Shi, a first-year PhD student in physics.
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huanyushi)](https://github.com/huanyushi/github-readme-stats) 
