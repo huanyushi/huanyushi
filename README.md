@@ -23,7 +23,7 @@ Welcome to my [Blog](https://huanyushi.github.io). More information about me:
 
 ## 🔍 Keywords:
 
-* Physics Undergraduate Student / Mathematics Enthusiasts / Integration lover 
+* Physics Doctoral Student/ Mathematics Enthusiasts / Integration Lover 
 * Painting / Stiff Pen Calligraphy
 * C / Fortran / Python / Matlab / Mathematica
 * 2019-2020 / 2020-2021 / National scholarship
