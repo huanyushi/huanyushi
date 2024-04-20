@@ -11,7 +11,7 @@ Hey there, I'm Huanyu Shi, a first-year PhD student in physics.
 -->
 
 
-Welcome to my [Blog](https://huanyushi.github.io). More information about me:
+Welcome to my [Blog](https://huanyushi.github.io) to see some of my notes. And more information about me:
 
 ## 🎓 Education:
 - 2019/09 - 2023/06: B. S. in Physics, School of Physics and Astronomy, Sun Yat-sen University, China.
@@ -19,14 +19,14 @@ Welcome to my [Blog](https://huanyushi.github.io). More information about me:
 
 ## 🔍 Keywords:
 
-* Physics Doctoral Student/ Mathematics Enthusiasts / Integration Lover 
+* PhD Student in Physics / Mathematics Enthusiasts / Integration Lover 
 * Painting / Stiff Pen Calligraphy
-* C / Fortran / Python / Matlab / Mathematica
+* C / Fortran / Python / MATLAB / Mathematica
 * 2019-2020 / 2020-2021 / National scholarship
 
 ## 🌐 Online Presence:
 
-* [Github](https://github.com/huanyushi)
+* [GitHub](https://github.com/huanyushi)
 * [Zhihu](https://www.zhihu.com/people/za-ran-zhu-fu-liu-xing) (A Chinese Q&A website)
 * [Stack Exchange](https://stackexchange.com/users/24950721/huanyu-shi)
 
