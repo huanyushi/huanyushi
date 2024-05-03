@@ -19,10 +19,11 @@ Welcome to my [Blog](https://huanyushi.github.io) to see some of my notes. And m
 
 ## 🔍 Keywords:
 
-* PhD Student in Physics / Mathematics Enthusiasts / Integration Lover 
+* Physics Doctoral Student / Mathematics Enthusiasts / Integration Lover 
 * Painting / Stiff Pen Calligraphy
 * C / Fortran / Python / MATLAB / Mathematica
-* 2019-2020 / 2020-2021 / National scholarship
+* Chinese / English / Japanese (learning) / French (newbie).
+* 2019-2020 / 2020-2021 / National Scholarship
 
 ## 🌐 Online Presence:
 
