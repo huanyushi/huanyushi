@@ -15,7 +15,7 @@ Welcome to my [Blog](https://huanyushi.github.io) to see some of my notes. And m
 
 ## 🎓 Education:
 - 2019/09 - 2023/06: B. S. in Physics, School of Physics and Astronomy, Sun Yat-sen University, China.
-- 2023/09 - Present: PhD student in Condensed Matter Physics, Kavli Institute for Theoretical Sciences, University of Chinese Academy of Sciences, China.
+- 2023/09 - Present: PhD student in Physics, Kavli Institute for Theoretical Sciences, University of Chinese Academy of Sciences, China.
 
 ## 🔍 Keywords:
 
