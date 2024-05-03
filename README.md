@@ -21,7 +21,7 @@ Welcome to my [Blog](https://huanyushi.github.io) to see some of my notes. And m
 
 * Physics Doctoral Student / Mathematics Enthusiasts / Integration Lover 
 * Painting / Stiff Pen Calligraphy
-* C / Fortran / Python / MATLAB / Mathematica
+* C / Fortran / Python / MATLAB / Mathematica / LaTeX / HTML / CSS
 * Chinese / English / Japanese (learning) / French (newbie).
 * 2019-2020 / 2020-2021 / National Scholarship
 
