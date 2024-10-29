@@ -21,14 +21,14 @@ Welcome to my [Blog](https://huanyushi.github.io) to see some of my notes. And m
 
 * Physics Doctoral candidate / Mathematics Enthusiasts
 * Painting / Stiff Pen Calligraphy
-* C / Fortran / Python / Julia /MATLAB / Mathematica / LaTeX / HTML / CSS
+* C / Fortran / Python / Julia / MATLAB / Mathematica / LaTeX / HTML / CSS
 * Chinese / English / Japanese (learning) / French (newbie).
 * 2019-2020 / 2020-2021 / National Scholarship
 
 ## 🌐 Online Presence:
 
 * [GitHub](https://github.com/huanyushi)
-* [Zhihu](https://www.zhihu.com/people/za-ran-zhu-fu-liu-xing) (A Chinese Q&A website, more than 17k followers.)
+* [Zhihu](https://www.zhihu.com/people/za-ran-zhu-fu-liu-xing) (A Chinese Q&A website, more than 19k followers.)
 * [Stack Exchange](https://stackexchange.com/users/24950721/huanyu-shi)
 
 ## 📧 Contact information:
