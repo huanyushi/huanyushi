@@ -22,7 +22,7 @@ Welcome to my [Blog](https://huanyushi.github.io) to see some of my notes. And m
 * Physics Doctoral candidate / Mathematics Enthusiasts
 * Painting / Stiff Pen Calligraphy
 * C / Fortran / Python / Julia / MATLAB / Mathematica / LaTeX / HTML / CSS
-* Chinese / English / Japanese (learning) / French (newbie).
+* Chinese / English / Japanese (learning)
 * 2019-2020 / 2020-2021 / National Scholarship
 
 ## 🌐 Online Presence:
